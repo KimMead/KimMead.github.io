@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "HTTP Request Verbs and the Request Cycle "
-date:       2019-04-05 21:34:53 +0000
+date:       2019-04-05 17:34:54 -0400
 permalink:  http_request_verbs_and_the_request_cycle
 ---
 
